@@ -1,30 +1,32 @@
-# BuyBy-Pizza
-This is a You own a pizza ordering web application where customers order different sizes of pizzas with one or more toppings. 
+# SportSouls 
 
-## Author
+## Authors
 
-[Mark Abenga](https://github.com/TheCaffeine)
+[TheCaffeine](https://github.com/TheCaffeine)
 
 ## Description
 
-This is a Pizza ordering website owned by "BuyBy-Pizza". The web based application offers the pizza lovers the chance to order and customize their pizzas as per their taste buds from different toppings, crusts, size and sauces. 
+This is an e-commerce website where customers can sell memorabilia from local, international athletes across all sports in Africa.
 
+
+## Screenshot
 
 ## Live Page 
- https://thecaffeine.github.io/BuyByPizza/
+https://thecaffeine.github.io/SportSouls/
 
 
 ## Technologies Used
 
 * [HTML5](https://github.com/topics/html5)
 * [CSS](https://github.com/topics/css3)
+* [JavaScript](https://github.com/topics/javascript)
 * [Bootstrap](https://github.com/topics/bootstrap)
-* [jQuery](https://github.com/topics/javascript)
+
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [liamabenger@gmail.com]
+If you have any question or contributions, please email us at [liamabenger@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Mark Abenger**
+* Copyright (c) 2021 **Abenger Mark**
